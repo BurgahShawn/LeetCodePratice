@@ -1,2 +1,2 @@
 # LeetCodePratice
-Exercise
+Exercises on found on a website.
